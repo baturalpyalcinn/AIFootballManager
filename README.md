@@ -30,4 +30,4 @@ There are 3 notebooks (one for scraping, one for basic data analysis and one for
 
 
 
-Everything is in ipython notebooks so you should not have any issues running anything, but if you need the datasets (so that you can skip the time-consuming web scraping bit) or have any questions, feel free to email me at mc4254 [at] columbia [dot] edu
+Everything is in ipython notebooks so you should not have any issues running anything, but if you need the datasets (so that you can skip the time-consuming web scraping bit) or have any questions, feel free to email me at baturalpyalcinn [at] gmail [dot] com
